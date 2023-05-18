@@ -1,2 +1,2 @@
 # ptde-open
-This is codes of PTDE algorithms.
+This is codes of PTDE algorithm.
